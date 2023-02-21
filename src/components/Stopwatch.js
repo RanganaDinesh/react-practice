@@ -52,7 +52,7 @@ function Stopwatch() {
   }
 
   return (
-    <div id="stopwa">
+    <div id="stopwatch">
       <h1>{seconds}</h1>
       <button onClick={start}>Start</button>
       <button onClick={pause}>Pause</button>

@@ -1,6 +1,7 @@
 
 import './App.css';
-import Stopwatch from './components/Stopwatch';
+import Form from './components/Form';
+// import Stopwatch from './components/Stopwatch';
 // import Practice from './components/Practice';
 
 // import Favourite from './components/Favourite';
@@ -11,7 +12,8 @@ function App() {
       {/* <h1>My Favourite</h1> */}
       {/* <Favourite/> */}
       {/* <Practice/> */}
-      <Stopwatch/>
+      {/* <Stopwatch/> */}
+      <Form/>
     </div>
   );
 }
